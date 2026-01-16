@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.berkingullu</groupId>
     <artifactId>devops_001_hello_berkin</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>devops_001_hello_berkin</name>
     <description>devops_001_hello_berkin</description>
     <url/>
